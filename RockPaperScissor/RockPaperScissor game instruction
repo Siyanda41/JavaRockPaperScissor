@@ -1,0 +1,7 @@
+What is a rock, paper, scissor game?. This game is being played by a user versus a computer. So if the User chooses rock
+and the computer chooses paper, the computer will win, vice versa. If the user chooses paper and the computer chooses scissor,
+the computer will win, vice versa. If the user chooses scissor and the computer chooses rock, the computer will win, vice versa.
+If they choose the same thing, it will be a tier.
+
+So in this game you'll first enter your name, and choose how many games you want to play, challenging a computer. Play that number
+of games you want to play then you, then at the end you'll get a report.  
